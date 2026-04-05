@@ -3,7 +3,7 @@ Serverless Temporary Email VIP System on Cloudflare
 
 # Rx-TempMail Engine: Serverless Multi-Domain Inbox (Open API)
 
-Rx-TempMail ini solusi Temporary Email serverless pakai ekosistem Cloudflare. Versi ini dibikin pakai UI ala Hacker (Cyber-Minimalist) dan mode Open API biar gampang diintegrasiin buat SaaS tanpa ribet mikirin login.
+Rx-TempMail ini solusi Temporary Email serverless pakai ekosistem Cloudflare. Versi ini dibikin pakai UI ala (Cyber-Minimalist) dan mode Open API biar gampang diintegrasiin buat SaaS tanpa ribet mikirin login.
 
 Sistem ini support Multi-Domain dari satu worker aja, dan ada dashboard CCTV admin tersembunyi buat mantau trafik email.
 
